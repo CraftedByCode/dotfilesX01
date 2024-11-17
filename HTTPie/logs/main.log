@@ -1,0 +1,114 @@
+[2024-11-08 12:23:20.773] [info]  Checking for update
+[2024-11-08 12:23:24.583] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:23:25.087] [info]  Update not available, info - {"tag":"v2024.1.2","version":"2024.1.2","files":[{"url":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","size":103669249,"blockMapSize":110101}],"path":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","releaseDate":"2024-01-06T18:07:21.143Z","releaseName":"2024.1.2","releaseNotes":"<p>🪲 Fixed a bug introduced in <a href=\"https://github.com/httpie/desktop/releases/tag/v2024.1.1\">2024.1.1</a> that led to <code>Control-W</code> on Linux and Windows unintentionally closing the app window instead of just the current tab.</p>"}
+[2024-11-08 12:28:25.122] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:28:25.123] [info]  Checking for update
+[2024-11-08 12:28:26.788] [info]  Update not available, info - {"tag":"v2024.1.2","version":"2024.1.2","files":[{"url":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","size":103669249,"blockMapSize":110101}],"path":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","releaseDate":"2024-01-06T18:07:21.143Z","releaseName":"2024.1.2","releaseNotes":"<p>🪲 Fixed a bug introduced in <a href=\"https://github.com/httpie/desktop/releases/tag/v2024.1.1\">2024.1.1</a> that led to <code>Control-W</code> on Linux and Windows unintentionally closing the app window instead of just the current tab.</p>"}
+[2024-11-08 12:33:26.802] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:33:26.803] [info]  Checking for update
+[2024-11-08 12:33:29.036] [info]  Update not available, info - {"tag":"v2024.1.2","version":"2024.1.2","files":[{"url":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","size":103669249,"blockMapSize":110101}],"path":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","releaseDate":"2024-01-06T18:07:21.143Z","releaseName":"2024.1.2","releaseNotes":"<p>🪲 Fixed a bug introduced in <a href=\"https://github.com/httpie/desktop/releases/tag/v2024.1.1\">2024.1.1</a> that led to <code>Control-W</code> on Linux and Windows unintentionally closing the app window instead of just the current tab.</p>"}
+[2024-11-08 12:38:29.049] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:38:29.049] [info]  Checking for update
+[2024-11-08 12:38:31.095] [info]  Update not available, info - {"tag":"v2024.1.2","version":"2024.1.2","files":[{"url":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","size":103669249,"blockMapSize":110101}],"path":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","releaseDate":"2024-01-06T18:07:21.143Z","releaseName":"2024.1.2","releaseNotes":"<p>🪲 Fixed a bug introduced in <a href=\"https://github.com/httpie/desktop/releases/tag/v2024.1.1\">2024.1.1</a> that led to <code>Control-W</code> on Linux and Windows unintentionally closing the app window instead of just the current tab.</p>"}
+[2024-11-08 12:43:31.108] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:43:31.109] [info]  Checking for update
+[2024-11-08 12:43:34.959] [info]  Update not available, info - {"tag":"v2024.1.2","version":"2024.1.2","files":[{"url":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","size":103669249,"blockMapSize":110101}],"path":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","releaseDate":"2024-01-06T18:07:21.143Z","releaseName":"2024.1.2","releaseNotes":"<p>🪲 Fixed a bug introduced in <a href=\"https://github.com/httpie/desktop/releases/tag/v2024.1.1\">2024.1.1</a> that led to <code>Control-W</code> on Linux and Windows unintentionally closing the app window instead of just the current tab.</p>"}
+[2024-11-08 12:48:34.973] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:48:34.973] [info]  Checking for update
+[2024-11-08 12:48:43.387] [info]  Update not available, info - {"tag":"v2024.1.2","version":"2024.1.2","files":[{"url":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","size":103669249,"blockMapSize":110101}],"path":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","releaseDate":"2024-01-06T18:07:21.143Z","releaseName":"2024.1.2","releaseNotes":"<p>🪲 Fixed a bug introduced in <a href=\"https://github.com/httpie/desktop/releases/tag/v2024.1.1\">2024.1.1</a> that led to <code>Control-W</code> on Linux and Windows unintentionally closing the app window instead of just the current tab.</p>"}
+[2024-11-08 12:53:43.412] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:53:43.412] [info]  Checking for update
+[2024-11-08 12:53:43.414] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 12:58:43.429] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 12:58:43.430] [info]  Checking for update
+[2024-11-08 12:58:43.432] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:03:43.445] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:03:43.445] [info]  Checking for update
+[2024-11-08 13:03:43.447] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:08:43.461] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:08:43.461] [info]  Checking for update
+[2024-11-08 13:08:43.463] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:13:43.476] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:13:43.476] [info]  Checking for update
+[2024-11-08 13:13:43.478] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:18:43.491] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:18:43.491] [info]  Checking for update
+[2024-11-08 13:18:43.493] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:23:43.506] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:23:43.507] [info]  Checking for update
+[2024-11-08 13:23:43.508] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:28:43.522] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:28:43.522] [info]  Checking for update
+[2024-11-08 13:28:43.524] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:33:43.537] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:33:43.538] [info]  Checking for update
+[2024-11-08 13:33:43.539] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:38:43.553] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:38:43.553] [info]  Checking for update
+[2024-11-08 13:38:43.555] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:43:43.568] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:43:43.569] [info]  Checking for update
+[2024-11-08 13:43:43.571] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:48:43.584] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:48:43.584] [info]  Checking for update
+[2024-11-08 13:48:43.586] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:53:43.599] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:53:43.599] [info]  Checking for update
+[2024-11-08 13:53:43.600] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 13:58:43.613] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 13:58:43.614] [info]  Checking for update
+[2024-11-08 13:58:43.615] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:03:43.628] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:03:43.628] [info]  Checking for update
+[2024-11-08 14:03:43.630] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:08:43.644] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:08:43.645] [info]  Checking for update
+[2024-11-08 14:08:43.646] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:13:43.659] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:13:43.660] [info]  Checking for update
+[2024-11-08 14:13:43.662] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:18:43.675] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:18:43.675] [info]  Checking for update
+[2024-11-08 14:18:43.677] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:23:43.717] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:23:43.718] [info]  Checking for update
+[2024-11-08 14:23:43.723] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:28:43.764] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:28:43.766] [info]  Checking for update
+[2024-11-08 14:28:43.770] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:33:43.815] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:33:43.817] [info]  Checking for update
+[2024-11-08 14:33:43.822] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:38:43.867] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:38:43.869] [info]  Checking for update
+[2024-11-08 14:38:43.874] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:43:43.917] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:43:43.918] [info]  Checking for update
+[2024-11-08 14:43:43.923] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:48:43.975] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:48:43.976] [info]  Checking for update
+[2024-11-08 14:48:43.981] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:53:44.023] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:53:44.024] [info]  Checking for update
+[2024-11-08 14:53:44.029] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 14:58:44.071] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 14:58:44.072] [info]  Checking for update
+[2024-11-08 14:58:44.076] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 15:03:44.121] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 15:03:44.122] [info]  Checking for update
+[2024-11-08 15:03:44.126] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 15:08:44.170] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 15:08:44.172] [info]  Checking for update
+[2024-11-08 15:08:44.179] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 15:13:44.220] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 15:13:44.221] [info]  Checking for update
+[2024-11-08 15:13:44.225] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 15:18:44.268] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 15:18:44.269] [info]  Checking for update
+[2024-11-08 15:18:44.274] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-08 15:23:44.318] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-08 15:23:44.319] [info]  Checking for update
+[2024-11-08 15:23:44.324] [error] error: net::ERR_INTERNET_DISCONNECTED, {}, token - undefined
+[2024-11-10 13:52:51.135] [info]  Checking for update
+[2024-11-10 13:52:54.909] [info]  Handling AUTO_UPDATE_RUN_CHECK
+[2024-11-10 13:52:56.832] [info]  Update not available, info - {"tag":"v2024.1.2","version":"2024.1.2","files":[{"url":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","size":103669249,"blockMapSize":110101}],"path":"HTTPie-2024.1.2.AppImage","sha512":"B+sxwIxMkjJBsm2eDpFLGtrUpdc8nLvVBi5Rrs4Alm3d7NZxUQDDG03ASnAGE4nU128LWyvNTNwtOrnuJFUQKQ==","releaseDate":"2024-01-06T18:07:21.143Z","releaseName":"2024.1.2","releaseNotes":"<p>🪲 Fixed a bug introduced in <a href=\"https://github.com/httpie/desktop/releases/tag/v2024.1.1\">2024.1.1</a> that led to <code>Control-W</code> on Linux and Windows unintentionally closing the app window instead of just the current tab.</p>"}

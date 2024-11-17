@@ -1,0 +1,4 @@
+# ~/.config/starship.toml
+
+# Custom format for the prompt
+format = """$directory ~>"""

@@ -1,0 +1,1 @@
+import{e as a}from"./localStorage-BWL8dYsz.js";const o=()=>a.apiUrl;export{o as default};

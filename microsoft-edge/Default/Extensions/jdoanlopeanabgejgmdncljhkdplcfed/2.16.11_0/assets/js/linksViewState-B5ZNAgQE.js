@@ -1,0 +1,1 @@
+import{u as r}from"./ViewState-lXKIKVsa.js";import{L as o}from"./index-DgGUECrr.js";import"./icon-alert-BG5stABd.js";import"./localStorage-BWL8dYsz.js";import"./preload-helper-DmNsytk6.js";import"./string-VUUyAM1F.js";import"./main-CWen-4ha.js";const t=r("links",{views:{[o.List]:{defaultView:!0,order:1},[o.Form]:{order:2}}});export{t as default,t as useLinksViewStateStore};

@@ -1,0 +1,1 @@
+import{u as t}from"./ViewState-lXKIKVsa.js";import"./icon-alert-BG5stABd.js";import"./localStorage-BWL8dYsz.js";import"./preload-helper-DmNsytk6.js";import"./string-VUUyAM1F.js";import"./index-DgGUECrr.js";import"./main-CWen-4ha.js";const r=t("tabs",{views:{list:{defaultView:!0,order:1},detail:{order:2}}});export{r as default,r as useTabsViewStateStore};

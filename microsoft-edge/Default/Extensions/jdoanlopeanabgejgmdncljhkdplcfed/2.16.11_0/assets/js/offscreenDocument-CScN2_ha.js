@@ -1,0 +1,1 @@
+import"./preload-helper-DmNsytk6.js";import"./localStorage-BWL8dYsz.js";import{m as e}from"./main-CWen-4ha.js";chrome.runtime&&chrome.runtime.onMessage.addListener(((r,o,t)=>{if("legacyUserMigration:triggerOffscreenDocumentRequest"===r.type)return e(r.payload,t),!0}));

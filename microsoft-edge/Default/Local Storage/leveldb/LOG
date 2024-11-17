@@ -1,0 +1,33 @@
+2024/11/07-18:36:59.359 4 Reusing MANIFEST /home/yogeself/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/07-18:36:59.364 4 Recovering log #3
+2024/11/07-18:36:59.364 4 Reusing old log /home/yogeself/.config/microsoft-edge/Default/Local Storage/leveldb/000003.log 
+2024/11/07-19:42:01.889 5 Level-0 table #5: started
+2024/11/07-19:42:01.892 5 Level-0 table #5: 120032 bytes OK
+2024/11/07-19:42:01.894 5 Delete type=0 #3
+2024/11/07-19:49:41.915 5 Level-0 table #7: started
+2024/11/07-19:49:41.925 5 Level-0 table #7: 145082 bytes OK
+2024/11/07-19:49:41.927 5 Delete type=0 #4
+2024/11/07-19:49:54.035 5 Level-0 table #9: started
+2024/11/07-19:49:54.036 5 Level-0 table #9: 27385 bytes OK
+2024/11/07-19:49:54.039 5 Delete type=0 #6
+2024/11/07-19:50:15.636 5 Level-0 table #11: started
+2024/11/07-19:50:15.645 5 Level-0 table #11: 37011 bytes OK
+2024/11/07-19:50:15.647 5 Delete type=0 #8
+2024/11/07-19:50:21.262 5 Level-0 table #13: started
+2024/11/07-19:50:21.271 5 Level-0 table #13: 20277 bytes OK
+2024/11/07-19:50:21.273 5 Delete type=0 #10
+2024/11/07-19:51:03.461 5 Level-0 table #15: started
+2024/11/07-19:51:03.463 5 Level-0 table #15: 18284 bytes OK
+2024/11/07-19:51:03.465 5 Delete type=0 #12
+2024/11/07-19:51:03.465 4 Compacting 4@0 + 1@1 files
+2024/11/07-19:51:03.469 4 Generated table #16@0: 3047 keys, 217122 bytes
+2024/11/07-19:51:03.470 4 Compacted 4@0 + 1@1 files => 217122 bytes
+2024/11/07-19:51:03.471 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/07-19:51:03.471 4 Delete type=2 #7
+2024/11/07-19:51:03.471 4 Delete type=2 #15
+2024/11/07-19:51:03.472 4 Delete type=2 #13
+2024/11/07-19:51:03.472 4 Delete type=2 #9
+2024/11/07-19:51:03.472 4 Delete type=2 #11
+2024/11/07-19:52:12.538 5 Level-0 table #18: started
+2024/11/07-19:52:12.540 5 Level-0 table #18: 145990 bytes OK
+2024/11/07-19:52:12.543 5 Delete type=0 #14

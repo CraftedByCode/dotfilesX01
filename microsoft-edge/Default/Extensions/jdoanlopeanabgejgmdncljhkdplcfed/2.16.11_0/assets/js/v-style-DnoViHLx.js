@@ -1,0 +1,1 @@
+import{i as t,j as r}from"./icon-alert-BG5stABd.js";const e={setup(){const e=t();return()=>{var t;return r("style",null==(t=e.default()[0])?void 0:t.text)}}};export{e as v};

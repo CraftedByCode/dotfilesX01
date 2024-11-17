@@ -1,0 +1,11 @@
+zsh
+ls
+vi .config/nushell
+nvim .config/nushell
+clear
+ls
+cd 0
+o
+0
+c
+cd

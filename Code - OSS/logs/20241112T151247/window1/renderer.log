@@ -1,0 +1,5 @@
+2024-11-12 15:12:50.766 [info] Started local extension host with pid 41798.
+2024-11-12 15:12:50.790 [info] Started initializing default profile extensions in extensions installation folder. file:///home/yogeself/.vscode-oss/extensions
+2024-11-12 15:12:50.923 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/yogeself/.vscode-oss/extensions
+2024-11-12 15:12:53.705 [info] [perf] Render performance baseline is 21ms
+2024-11-12 15:13:41.401 [warning] [backup tracker] suspended, ignoring unregister event file:///home/yogeself/HOME/Projects/Current/Tauri/focus-desktop/package.json 

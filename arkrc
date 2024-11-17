@@ -1,0 +1,11 @@
+[ExtractDialog]
+1280x720 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/HOME/Downloads/,$HOME/Downloads/,/usr/share/plymouth/themes/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled

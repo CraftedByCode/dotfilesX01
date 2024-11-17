@@ -1,0 +1,89 @@
+{
+  "cache": {
+    "closestlocation": {
+      "data": "bom",
+      "expiration": 1731020931
+    },
+    "database_names": {
+      "expiration": 1731045822,
+      "data": [
+        {
+          "dbId": "8bc41bb1-4df4-4f68-b4d8-d51244557a99",
+          "Name": "usersdb",
+          "Regions": [
+            "bom"
+          ],
+          "PrimaryRegion": "bom",
+          "Hostname": "usersdb-craftedbycode.turso.io",
+          "Version": "0.24.28",
+          "Group": "default",
+          "Sleeping": false,
+          "Schema": "",
+          "is_schema": false
+        }
+      ]
+    },
+    "groups": {
+      "expiration": 0
+    },
+    "locations": {
+      "data": {
+        "ams": "Amsterdam, Netherlands",
+        "arn": "Stockholm, Sweden",
+        "atl": "Atlanta, Georgia (US)",
+        "aws-eu-west-3": "AWS EU West (Paris)",
+        "aws-us-east-1": "AWS US East (Virginia)",
+        "aws-us-west-1": "AWS US West (N.California)",
+        "aws-us-west-2": "AWS US West (Oregon)",
+        "bog": "Bogotá, Colombia",
+        "bom": "Mumbai, India",
+        "bos": "Boston, Massachusetts (US)",
+        "cdg": "Paris, France",
+        "den": "Denver, Colorado (US)",
+        "dfw": "Dallas, Texas (US)",
+        "ewr": "Secaucus, NJ (US)",
+        "eze": "Ezeiza, Argentina",
+        "fra": "Frankfurt, Germany",
+        "gdl": "Guadalajara, Mexico",
+        "gig": "Rio de Janeiro, Brazil",
+        "gru": "São Paulo, Brazil",
+        "hkg": "Hong Kong, Hong Kong",
+        "iad": "Ashburn, Virginia (US)",
+        "jnb": "Johannesburg, South Africa",
+        "lax": "Los Angeles, California (US)",
+        "lhr": "London, United Kingdom",
+        "mad": "Madrid, Spain",
+        "mia": "Miami, Florida (US)",
+        "nrt": "Tokyo, Japan",
+        "ord": "Chicago, Illinois (US)",
+        "otp": "Bucharest, Romania",
+        "phx": "Phoenix, Arizona (US)",
+        "qro": "Querétaro, Mexico",
+        "scl": "Santiago, Chile",
+        "sea": "Seattle, Washington (US)",
+        "sin": "Singapore, Singapore",
+        "sjc": "San Jose, California (US)",
+        "syd": "Sydney, Australia",
+        "waw": "Warsaw, Poland",
+        "yul": "Montreal, Canada",
+        "yyz": "Toronto, Canada"
+      },
+      "expiration": 1731020931
+    },
+    "token_valid": {
+      "eyjhbgcioijsuzi1niisimnhdci6imnsx0i3zdrqrdiymkfbqsisimtpzci6imluc18yyza4r3zneehymlncc3l0d2padm95cedjeduilcj0exaioijkv1qifq_eyjlehaioje3mze1oty0ntusimlhdci6mtczmdk5mty1nswiaxnzijoiahr0chm6ly9jbgvyay50dxjzby50zwnoiiwianrpijoimmjhm2m1otgyzjazodyyodzkzgeilcjuymyioje3mza5ote2ntasinn1yii6invzzxjfmm9xu1lmtzrstxyyohv1bmdwotdpvhdpzdc1in0_w75-eluv50ndxcmeczslhxztbcnbqi-omtwlxxd1oqksyw-nrbmwz8odn7xl8umufztk3zxhsdjcywbke4g4fqnlr1yb4mcxp_eivfzrmqk-yu7-52co6rfjdpgc9az1y9nt2yqutqejwwzuczyrpft0ub8qst8vmhgdbwjoy2gizyyyy82j1qigx7aq-9omwvsrrdc054_bpxlgq3lisua2labflqkour-n35hdf8m9p3oekoy678yu8zfb2kkrodjgvozrj9rvjyrzr6yegbwt0jptasyqgu-rijdkzx9fxzezompsztdunqqvch6cac_czledhycegxabelf_9a": {
+        "data": true,
+        "expiration": 1731596455
+      }
+    }
+  },
+  "config": {
+    "last_update_check": 1730991660
+  },
+  "config-path": "",
+  "token": "eyJhbGciOiJSUzI1NiIsImNhdCI6ImNsX0I3ZDRQRDIyMkFBQSIsImtpZCI6Imluc18yYzA4R3ZNeEhYMlNCc3l0d2padm95cEdJeDUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MzE1OTY0NTUsImlhdCI6MTczMDk5MTY1NSwiaXNzIjoiaHR0cHM6Ly9jbGVyay50dXJzby50ZWNoIiwianRpIjoiMmJhM2M1OTgyZjAzODYyODZkZGEiLCJuYmYiOjE3MzA5OTE2NTAsInN1YiI6InVzZXJfMm9XU1lMTzRSTXYyOHV1bmdwOTdPVHdpZDc1In0.w75-eluv50NDXCMEcZSLHXZTBcnBQi-oMtwLXXd1oqksyW-nrbmWz8OdN7xL8uMUFZtk3ZxhsDjCYwBKE4G4FqNLR1yB4mCxp_EIvfZRMqk-yu7-52cO6rfjdpGC9az1Y9NT2YqutQEJWWzUCzyrpFT0Ub8QSt8VmhGdbWJOY2giZYYYY82J1QIGX7aQ-9omWVSrRdC054_BPXLGq3lIsuA2lABFlqkoUR-n35Hdf8m9p3OEkoY678yu8ZfB2KKrOdjgVOzrJ9rvjyRzR6YeGBWt0jPtAsyqGu-riJdKZX9FXZEZompSzTdUNqQVCH6Cac_czlEDhYceGxabeLf_9A",
+  "usedcommands": {
+    "auth_login": true
+  },
+  "username": "craftedbycode"
+}

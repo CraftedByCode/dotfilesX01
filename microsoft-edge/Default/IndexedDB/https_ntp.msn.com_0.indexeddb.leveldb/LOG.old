@@ -1,0 +1,7 @@
+2024/11/07-19:31:48.816 7305 Reusing MANIFEST /home/yogeself/.config/microsoft-edge/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/07-19:31:48.816 7305 Recovering log #3
+2024/11/07-19:31:48.816 7305 Reusing old log /home/yogeself/.config/microsoft-edge/Default/IndexedDB/https_ntp.msn.com_0.indexeddb.leveldb/000003.log 
+2024/11/07-19:32:25.495 72e7 Level-0 table #5: started
+2024/11/07-19:32:25.497 72e7 Level-0 table #5: 7261 bytes OK
+2024/11/07-19:32:25.499 72e7 Delete type=0 #3
+2024/11/07-19:32:25.499 72e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
